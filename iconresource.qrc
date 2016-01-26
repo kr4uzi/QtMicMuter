@@ -1,0 +1,6 @@
+<!DOCTYPE RCC><RCC version="1.0">
+	<qresource prefix="/">
+		<file>images/micon.svg</file>
+		<file>images/micoff.svg</file>
+	</qresource>
+</RCC>
